@@ -7,8 +7,9 @@ Answers "which of my 38 agents needs me right now" without walking the workspace
 
 ## Screenshots
 
-Names and session titles in these screenshots are synthetic; the underlying browser DOM was
-rewritten before capture so no private project, workspace, or session identifiers are published.
+Agent, project, and workspace names come from an isolated synthetic workspace. Both PNGs were
+captured at 2× pixel density after browser DevTools replaced the local host label and verified that
+no private organization names remained in the rendered page.
 
 ### Project-first roster
 

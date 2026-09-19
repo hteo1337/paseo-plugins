@@ -8,8 +8,9 @@ It adds a workspace-scoped **Beads** Explorer panel and an **Open Beads** Comman
 
 ## Screenshots
 
-Issue IDs, titles, assignees, labels, and issue details in these screenshots are synthetic. They do
-not contain data from a real Beads project.
+Issue IDs, titles, assignees, labels, and details come from a temporary synthetic Beads project.
+Both PNGs were captured from an isolated Paseo daemon at 2× pixel density after browser DevTools
+verified the rendered page contained no private organization names.
 
 ### Wide
 

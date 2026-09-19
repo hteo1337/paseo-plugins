@@ -8,8 +8,9 @@ parent-child relationships across workspace boundaries.
 
 ## Screenshots
 
-Names, workspaces, and task details in these screenshots are synthetic. The rendered page was
-rewritten before capture so no private project or session identifiers are published.
+Agent, workspace, and task details come from an isolated synthetic workspace. Both PNGs were
+captured at 2× pixel density after browser DevTools rewrote local paths and host labels and verified
+that no private organization names remained in the rendered page.
 
 ### Crew overview
 
